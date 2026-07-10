@@ -2,13 +2,26 @@
 
 **Extreme Networks — Office of the CTO (OCTO)**
 
-This repository is a directory of public repositories maintained by the Office of the CTO at Extreme Networks. Use the list below to find and navigate to our public projects.
+This repository is a directory of public projects maintained by the Office of the CTO at Extreme Networks. Each project below groups its related repositories and releases with a short description.
 
-## Repositories
+## Table of Contents
 
-<!-- Add links to public OCTO repositories below. -->
+- [MCP XCO+ Community Server](#mcp-xco-community-server)
 
-_No repositories linked yet — links will be posted here._
+---
+
+## MCP XCO+ Community Server
+
+A community [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server for Extreme Networks **XCO+ (IP Fabric)**. It exposes fabric operations and data to MCP-compatible AI assistants, letting you query and interact with your IP Fabric environment through natural language. The project also ships a demo client that shows how to connect an MCP client to the server end to end.
+
+**Links**
+
+| Component | Repository | Releases |
+|---|---|---|
+| MCP XCO+ Community Server | [Repo](https://github.com/YuryOstrovsky/xco-mcp-community-server) | [Releases](https://github.com/YuryOstrovsky/xco-mcp-community-server/releases) |
+| MCP XCO+ Community Demo Client | [Repo](https://github.com/YuryOstrovsky/xco-mcp-community-client-demo) | [Releases](https://github.com/YuryOstrovsky/xco-mcp-community-client-demo/releases) |
+
+---
 
 ## About
 
