@@ -12,7 +12,12 @@ This repository is a directory of public projects maintained by the Office of th
 
 ## MCP XCO+ Community Server
 
-A community [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server for Extreme Networks **XCO+ (IP Fabric)**. It exposes fabric operations and data to MCP-compatible AI assistants, letting you query and interact with your IP Fabric environment through natural language. The project also ships a demo client that shows how to connect an MCP client to the server end to end.
+A community [Model Context Protocol (MCP)](https://modelcontextprotocol.io) project for Extreme Networks **XCO+ (IP Fabric)**. It lets MCP-compatible AI assistants query and interact with an IP Fabric environment through natural language, and ships with a demo client so you can try the full workflow end to end.
+
+The project has two components:
+
+- **MCP XCO+ Community Server** — the MCP server itself. It exposes XCO+ (IP Fabric) operations and data as MCP tools so any MCP-compatible assistant can drive the fabric.
+- **MCP XCO+ Community Demo Client** — a reference client that connects to the server and demonstrates a working end-to-end setup, useful as a starting point for your own integration.
 
 **Links**
 
