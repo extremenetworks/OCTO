@@ -49,8 +49,8 @@ The project has two components:
 
 | Component | Docker Hub | GHCR |
 |---|---|---|
-| Server | [extremecanada/sonic-mcp-community-server](https://hub.docker.com/r/extremecanada/sonic-mcp-community-server) | [package](https://github.com/users/YuryOstrovsky/packages/container/package/sonic-mcp-community-server) |
-| Client | [extremecanada/sonic-mcp-community-client](https://hub.docker.com/r/extremecanada/sonic-mcp-community-client) | [package](https://github.com/users/YuryOstrovsky/packages/container/package/sonic-mcp-community-client) |
+| Server | [extremecanada/sonic-mcp-community-server](https://hub.docker.com/r/extremecanada/sonic-mcp-community-server) | [package](https://github.com/YuryOstrovsky/sonic-mcp-community-server/pkgs/container/sonic-mcp-community-server) |
+| Client | [extremecanada/sonic-mcp-community-client](https://hub.docker.com/r/extremecanada/sonic-mcp-community-client) | [package](https://github.com/YuryOstrovsky/sonic-mcp-community-client/pkgs/container/sonic-mcp-community-client) |
 
 ```bash
 # Server (v0.2.0 or latest)
